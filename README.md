@@ -10,11 +10,6 @@ Este projeto tem como objetivo analisar, modelar e documentar um sistema de gere
 O sistema contempla o controle de entrada e saída de veículos, gerenciamento de vagas, cálculo de tarifas e emissão de relatórios — atendendo aos atores: **Recepcionista**, **Cliente**, **Sistema** e **Administrador**.
  
 ---
----
- 
-## 📁 Estrutura do Repositório
- 
-```
 ```
  
 ## 🗂️ Artefatos Produzidos
