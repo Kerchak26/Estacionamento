@@ -15,39 +15,12 @@ Este projeto tem como objetivo analisar, modelar e documentar um sistema de gere
 O sistema contempla o controle de entrada e saída de veículos, gerenciamento de vagas, cálculo de tarifas e emissão de relatórios — atendendo aos atores: **Recepcionista**, **Cliente** e **Administrador**.
  
 ---
- 
-## 👥 Equipe
- 
-| Nome | GitHub |
-|------|--------|
-| Kaua Queiroga | [@Kerchak26](https://github.com/Kerchak26) |
-| Caio Eduardo | [@Toxiros0804](https://github.com/Toxiros0804) |
- 
 ---
  
 ## 📁 Estrutura do Repositório
  
 ```
-sistema-estacionamento/
-│
-├── README.md
-│
-├── diagramas/
-│   ├── diagrama-de-caso-de-uso.jpg
-│   ├── diagrama-de-classe.png
-│   ├── storyboard-estacionamento.jpeg
-│   └── tela-prototipo-eng.png
-│
-└── docs/
-    ├── brainstorm-estacionamento.docx
-    ├── observacao-rotina-trabalho.docx
-    ├── rotina-estacionamento.bpm
-    ├── tap-definitivo.docx
-    ├── tecnica-levantamento-observacoes.docx
-    └── tecnica-levantamento-tipagem.docx
 ```
- 
----
  
 ## 🗂️ Artefatos Produzidos
  
