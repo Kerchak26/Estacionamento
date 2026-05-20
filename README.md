@@ -7,7 +7,7 @@
  
 Este projeto tem como objetivo analisar, modelar e documentar um sistema de gerenciamento de estacionamento. O trabalho envolve o levantamento de requisitos, modelagem de processos e elaboração de artefatos de engenharia de software, como diagramas UML, storyboards e protótipos de tela.
  
-O sistema contempla o controle de entrada e saída de veículos, gerenciamento de vagas, cálculo de tarifas e emissão de relatórios — atendendo aos atores: **Recepcionista**, **Cliente** e **Administrador**.
+O sistema contempla o controle de entrada e saída de veículos, gerenciamento de vagas, cálculo de tarifas e emissão de relatórios — atendendo aos atores: **Recepcionista**, **Cliente**, **Sistema** e **Administrador**.
  
 ---
 ---
