@@ -1,11 +1,6 @@
 # 🅿️ Sistema de Estacionamento
  
 > Projeto acadêmico de análise e modelagem de um sistema para gerenciamento de estacionamento.
- 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Faculdade](https://img.shields.io/badge/tipo-projeto%20acadêmico-blue)
-![Contribuidores](https://img.shields.io/badge/contribuidores-2-green)
- 
 ---
  
 ## 📋 Sobre o Projeto
